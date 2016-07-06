@@ -20,6 +20,7 @@ group :development do
   gem "spring"
   gem "spring-commands-rspec"
   gem "web-console"
+  gem "erb2haml"
 end
 
 group :development, :test do
