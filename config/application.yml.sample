@@ -1,3 +1,0 @@
-ASSET_HOST: "localhost:3000"
-HOST: "localhost:3000"
-SECRET_KEY_BASE: "development_secret"

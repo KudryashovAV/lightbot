@@ -264,6 +264,7 @@ DEPENDENCIES
   factory_girl_rails
   figaro
   formulaic
+  haml
   high_voltage
   jasmine-rails
   jquery-rails
