@@ -1,5 +1,5 @@
 class Field < ActiveRecord::Base
-  has_many :sectors
+  # has_many :sectors
 
   def create
     start_sumbol = Sector::SYMBOLS.rand
